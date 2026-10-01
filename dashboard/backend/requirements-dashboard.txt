@@ -1,0 +1,9 @@
+fastapi==0.121.1
+uvicorn[standard]==0.38.0
+python-multipart==0.0.20
+python-dotenv==1.2.1
+opencv-python==4.13.0.92
+numpy>=2.0
+ultralytics==8.4.19
+torch==2.10.0
+torchvision==0.25.0

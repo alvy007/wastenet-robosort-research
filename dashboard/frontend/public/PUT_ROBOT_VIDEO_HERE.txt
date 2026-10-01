@@ -1,0 +1,5 @@
+Place the final prerecorded robotic-arm demonstration video in this folder with this exact filename:
+
+robot-arm-demo.mp4
+
+The dashboard will automatically load it in the Robotic Arm Demonstration panel.

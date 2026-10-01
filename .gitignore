@@ -1,0 +1,78 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ==============================
+# Node / Next.js
+# ==============================
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# ==============================
+# Environment files
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# ==============================
+# Runtime / generated evidence
+# ==============================
+dashboard/backend/runtime/
+runtime/
+logs/
+
+# ==============================
+# ML datasets and model weights
+# ==============================
+data/
+datasets/raw/
+datasets/images/
+models/
+weights/
+checkpoints/
+
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# ==============================
+# Kaggle / archives
+# ==============================
+kaggle_upload/
+*.zip
+*.rar
+*.7z
+
+# ==============================
+# Media
+# ==============================
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ==============================
+# OS / IDE
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ==============================
+# Misc
+# ==============================
+*.log
